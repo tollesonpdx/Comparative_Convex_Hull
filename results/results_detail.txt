@@ -1,0 +1,57 @@
+
+
+data file: ./data/data_00000016pts.txt	
+brute force: h = 5, ops = 1680, secs = 0.000027
+graham scan: h = 5, ops = 58, secs = 0.000045
+jarvis march: h = 5, ops = 101, secs = 0.000006
+chan algo: h = 5, ops = 130, secs = 0.000011
+
+
+data file: ./data/data_00001000pts.txt	
+brute force: h = 19, ops = 498501000, secs = 5.917939
+graham scan: h = 19, ops = 3980, secs = 0.000378
+jarvis march: h = 19, ops = 20019, secs = 0.000303
+chan algo: h = 19, ops = 7235, secs = 0.000419
+
+
+data file: ./data/data_00001000pts_forJarvisCircle.txt	
+brute force: h = 981, ops = 498501000, secs = 5.298564
+graham scan: h = 979, ops = 3020, secs = 0.000306
+jarvis march: h = 979, ops = 980979, secs = 0.014139
+chan algo: h = 979, ops = 979135, secs = 0.015023
+
+
+data file: ./data/data_00010000pts.txt	
+brute force: h = 0, ops = 0, secs = 0.000003
+graham scan: h = 25, ops = 39974, secs = 0.003737
+jarvis march: h = 25, ops = 260025, secs = 0.003919
+chan algo: h = 25, ops = 74701, secs = 0.003826
+
+
+data file: ./data/data_00100000pts.txt	
+brute force: h = 0, ops = 0, secs = 0.000003
+graham scan: h = 32, ops = 399967, secs = 0.043248
+jarvis march: h = 32, ops = 3300032, secs = 0.047031
+chan algo: h = 32, ops = 787081, secs = 0.039400
+
+
+data file: ./data/data_01000000pts.txt	
+brute force: h = 0, ops = 0, secs = 0.000003
+graham scan: h = 39, ops = 3999960, secs = 0.502699
+jarvis march: h = 39, ops = 40000039, secs = 0.639264
+chan algo: h = 39, ops = 8251292, secs = 0.446002
+
+
+data file: ./data/data_10000000pts.txt	
+brute force: h = 0, ops = 0, secs = 0.000003
+graham scan: h = 43, ops = 39999956, secs = 6.534802
+jarvis march: h = 43, ops = 440000043, secs = 7.739181
+chan algo: h = 43, ops = 84841088, secs = 6.466264
+
+
+data file: ./data/data_10000003pts_ForJarvis.txt	
+brute force: h = 0, ops = 0, secs = 0.000003
+graham scan: h = 3, ops = 40000008, secs = 7.116797
+jarvis march: h = 3, ops = 40000015, secs = 0.892684
+chan algo: h = 3, ops = 62222054, secs = 4.075923
+program complete
