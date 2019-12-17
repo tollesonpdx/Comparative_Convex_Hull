@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Large Data Files - users can recreate their own using the included tool
+data_10000000pts.txt
+data_10000003pts_ForJarvis.txt
+data_100000000pts.txt
