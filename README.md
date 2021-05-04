@@ -1,6 +1,14 @@
 # Convex Hull Algorithm Comparison
 
-This program is designed to compare the efficiency in operations and time of four algorithms solving the Convex Hull problem. The program runs each of the four algorithms (Brute Force, Graham's Scan, Jarvis's March, and Chan's Algorithm) on the eight data sets contained within the **data** folder. The results of the programs are stored in a text file in the **results** folder. Additional datasets can be created using the genpoints program within the **data** folder. The genpoints program will need to be edited to specificy the file name, and then the new dataset must be manually added into the main function, which is contained in the _convexHull.c_ file. Run 'make' to generate the executable file called _convex_. Then run _convex_ to run the program.
+This program is designed to compare the efficiency in operations and time of four algorithms solving the Convex Hull problem. A summary of the execution and comparison of performance results are located [HERE](report/CS584_Project_Tolleson_v8.pdf).
+
+The program runs each of the four algorithms:
+1) Brute Force, 
+2) Graham's Scan,
+3) Jarvis's March, and
+4) Chan's Algorithm 
+
+on the eight data sets contained within the **data** folder. The programs' results are stored in a text file in the **results** folder. Additional datasets can be created using the genpoints program within the **data** folder. The genpoints program will need to be edited to specificy the file name, and then the new dataset must be manually added into the main function, which is contained in the _convexHull.c_ file. Run 'make' to generate the executable file. PLEASE NOTE that this program may need to be adjusted to run on your machine due to the large amount of memory intentionally utilized.
 
 
 ### Files:
