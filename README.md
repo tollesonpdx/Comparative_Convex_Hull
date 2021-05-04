@@ -2,15 +2,6 @@
 
 This program is designed to compare the efficiency in operations and time of four algorithms solving the Convex Hull problem. A summary of the execution and comparison of performance results are located [HERE](report/CS584_Project_Tolleson_v8.pdf).
 
-## Report
-<object data="report/CS584_Project_Tolleson_v8.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="report/CS584_Project_Tolleson_v8.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: 
-            <a href="report/CS584_Project_Tolleson_v8.pdf">Download PDF</a>
-        </p>
-    </embed>
-</object>
-
 The program runs each of the four algorithms:
 1) Brute Force, 
 2) Graham's Scan,
