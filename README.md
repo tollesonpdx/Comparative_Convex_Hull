@@ -19,7 +19,7 @@ on the eight data sets contained within the **data** folder. The programs' resul
 
 **results** -- folder containing text files with detail and summary results of the program
 
-* makefile -- run 'make' to compile the executable file
+* makefile -- run 'make' to compile the executable file. Thanks to [Job Vranish](https://spin.atomicobject.com/2016/08/26/makefile-c-projects/) and [Chase Lambert](https://makefiletutorial.com) for this better makefile.
 
 * headers.h -- header file containing library include statements, function prototypes, and includes for any other h files
 
